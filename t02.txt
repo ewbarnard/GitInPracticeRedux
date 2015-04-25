@@ -1,1 +1,2 @@
 techique 2
+technique 3
