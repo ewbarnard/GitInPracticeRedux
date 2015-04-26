@@ -157,11 +157,4 @@ ezcDbFactory::addImplementation().  Then we can use the handler in the usual
 way, as if it was a standard implementation.
 
 
-See also
-========
-
-- For more information about PDO please visit the following page:
-  http://php.net/PDO
-- See real examples (with errors handling) in test.php file bundled with
-  the Database package.
 
