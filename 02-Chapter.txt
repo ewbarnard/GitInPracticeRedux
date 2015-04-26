@@ -1,8 +1,3 @@
-technique 2
-technique 3
-t 7
-t 10
-on github
 t 14
 t 15 another push
 with change to .ssh/config
