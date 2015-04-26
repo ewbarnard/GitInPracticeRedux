@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 eZ publish Enterprise Component: Database, Design
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -158,4 +159,7 @@ way, as if it was a standard implementation.
 
 
 
+=======
+01-Introducing.txt
+>>>>>>> Stashed changes
 Adding content
