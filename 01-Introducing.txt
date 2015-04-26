@@ -164,3 +164,8 @@ See also
   http://php.net/PDO
 - See real examples (with errors handling) in test.php file bundled with
   the Database package.
+
+It lets the user interact with different DBMSs using a common API. Such
+differences between SQL dialects may include differences in OFFSET and LIMIT
+clauses, left/right joins, temporary tables and strings quoting. These are also
+handled transparently for the user.
