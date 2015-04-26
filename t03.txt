@@ -1,4 +1,4 @@
-techique 2
+technique 2
 technique 3
 t 7
 t 10
